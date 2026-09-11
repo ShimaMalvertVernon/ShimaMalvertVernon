@@ -2,5 +2,5 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Kurotsuki-no-Yuri/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/ShimaMalvertVernon/count.svg" alt="Visitor's Count" />
 </div>
